@@ -1,2 +1,2 @@
-# angular-izi
-Angular based framework to develop angular modules in an easy way
+# js-scale-app
+Project Layout for large scale javascript proejcts
